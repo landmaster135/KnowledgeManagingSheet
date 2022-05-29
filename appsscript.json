@@ -1,0 +1,21 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "LandGasterId",
+        "version": "0",
+        "libraryId": "1CEb_7m3qP0ygig5SuuuO95j72N5d4s6ZjrSCzYhH85gZTjCJc89TgYVI",
+        "developmentMode": true
+      },
+      {
+        "userSymbol": "LandmasterLibraryGas",
+        "version": "0",
+        "libraryId": "1RT9wqSQIY82cdkNNP0Pz5TF0knsFDTr8b5MdpwHLMxgWoi2pw6y2E9Mk",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
